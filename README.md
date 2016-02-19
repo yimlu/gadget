@@ -1,2 +1,3 @@
-# gadget
-A small web application to provide SNS related functionalities
+# Gadget #
+
+A small web biolerplate to simplify SNS related application development.
